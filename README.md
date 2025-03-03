@@ -1,5 +1,5 @@
 
-'''mermaid
+''' mermaid
 
 classDiagram
   class User {
@@ -36,3 +36,4 @@ classDiagram
   User "1" *-- "N" Feature
   User "1" *-- "1" Card
   User "1" *-- "N" News
+'''
