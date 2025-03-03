@@ -1,3 +1,6 @@
+O Figma foi utilizado para a abstração do domínio desta API, sendo útil na análise e projeto da solução.
+
+## Diagrama de Classes (Domínio da API)
 ```mermaid
 classDiagram
   class User {
